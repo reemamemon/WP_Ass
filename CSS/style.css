@@ -1,0 +1,20 @@
+p {
+    background-color: aquamarine;
+}
+
+.container{
+    background-color: rgb(225, 205, 179);
+    padding: 25px;
+    margin: 20px;
+}
+
+
+.city{
+    background-color: chocolate;
+    padding: 25px;
+    margin: 70px;
+}
+
+#heading{
+    color: darkgreen;
+}
